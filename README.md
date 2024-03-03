@@ -1,5 +1,5 @@
 <h1 align="center">Encriptador de Texto</h1>
-<img src="https://github.com/jftorresj/encriptador-de-texto/assets/52933548/808f332b-4235-43c7-9879-58e31ac91405" alt="Insignia" align=center>
+<img src="https://github.com/jftorresj/encriptador-de-texto/assets/52933548/808f332b-4235-43c7-9879-58e31ac91405" alt="Insignia" align="center">
 
 <h2>Descripción del proyecto</h2>
 El proyecto consiste en el desarrollo web de una herramienta para encriptación y desencriptación de un texto ingresado por el usuario.
